@@ -1,26 +1,24 @@
-# *Sorting and Searching Algorithm Visualizer*
+# *Searching and Sorting Algorithm Visualizer*
 
-A console based sorting and searching algorithm visualizer made using the ``` graphics.h ``` library.
+This is a console based sorting and searching algorithm visualizer build using the ``` graphics.h ``` library.
 
-* The sorting algorithms visualised are:
-  * Bubble Sort
-  * Selection Sort
-  * Insertion Sort
+This visualizer work for the data structure "Array".
 
-* The Searching Algorithms visualised are:
+* The Searching Algorithms visualised 
   * Linear Search
   * Binary Search
+  
+ * The Sorting algorithms includes:
 
-# USAGE
-Download the [algovisualiser.exe](https://github.com/Sree261/Sorting-Searching-Algorithm-Visualiser/raw/master/algovisualiser.exe) and run it.
+  * Selection Sort
+  * Insertion Sort
+  * Bubble Sort
 
-**NOTE: After giving the inputs click on the newly formed window and keep pressing enter to view the animations.**
-
-# EXAMPLE
+# EXAMPLE 
 
 ## 1. Searching Algorithms
 
-### INPUT GIVEN
+### INPUTS Taken
 
 ![WhatsApp Image 2021-06-13 at 7 07 50 PM](https://user-images.githubusercontent.com/69712963/121814205-69a7ed00-cc8d-11eb-8ee2-1295e385166d.jpeg)
 
